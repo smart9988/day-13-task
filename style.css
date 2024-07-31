@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: center;
+    height: 75vh;
+    align-items: center;
+    border: 10px solid rgb(32, 215, 136);
+}
+.item{
+    margin-bottom: 10px;
+}
+.container1{
+    display: grid;
+    padding-left: 40%;
+    height: 75vh;
+    
+    border: 10px solid rgb(46, 159, 140);
+    
+}
